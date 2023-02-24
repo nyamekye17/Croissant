@@ -1,0 +1,19 @@
+body{
+    background-color: plum;
+}
+h1, p{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+footer a{
+    color: whitesmoke;
+    margin: 0 15px;
+}
+.croissant-photo{
+    display: block;
+    max-width: 100%;
+    border-radius: 15px;
+   margin: 35px auto;
+}
